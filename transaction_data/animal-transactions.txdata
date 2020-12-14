@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "animalExists",
+        "transactionLabel": "A test animalExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createAnimal",
+        "transactionLabel": "A test createAnimal transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readAnimal",
+        "transactionLabel": "A test readAnimal transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateAnimal",
+        "transactionLabel": "A test updateAnimal transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteAnimal",
+        "transactionLabel": "A test deleteAnimal transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
